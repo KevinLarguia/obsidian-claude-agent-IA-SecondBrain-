@@ -1,4 +1,5 @@
 # Obsidian Claude Agent — Segundo Cerebro con IA
+<img width="943" height="835" alt="image" src="https://github.com/user-attachments/assets/32d96565-8754-4287-8794-676aee28a065" />
 
 > Sistema de gestión del conocimiento personal potenciado por LLM, construido sobre **Obsidian + Claude Code**. Combina context engineering, memoria persistente entre sesiones y captura automática de información en un vault estructurado.
 
