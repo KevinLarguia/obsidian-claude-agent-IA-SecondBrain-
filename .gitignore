@@ -1,0 +1,26 @@
+# Contenido personal del vault — no subir (solo nivel raíz)
+/daily-notes/
+/personas/
+/inbox/
+/proyectos/
+/resources/
+/ideas/
+/research/
+/memory/
+
+# Obsidian interno
+.obsidian/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/settings.json
+*.swp
+*.swo
+
+# Archivos temporales
+*.tmp
+*.bak
