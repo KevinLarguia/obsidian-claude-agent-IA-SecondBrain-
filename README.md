@@ -4,13 +4,13 @@
 
 > Sistema de gestión del conocimiento personal potenciado por LLM, construido sobre **Obsidian + Claude Code**. Combina context engineering, memoria persistente entre sesiones y captura automática de información en un vault estructurado.
 
----
+----
 
 ## El problema que resuelve
 
 Los gestores de conocimiento tradicionales (Notion, Obsidian sin IA) son pasivos: vos escribís, ellos guardan. Este sistema invierte la lógica: **el agente entiende quién sos, qué proyectos tenés activos y cómo pensás** — y actúa en consecuencia sin que tengas que re-explicar el contexto cada vez.
 
----
+----
 
 ## Arquitectura
 
