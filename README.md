@@ -61,7 +61,7 @@ Los gestores de conocimiento tradicionales (Notion, Obsidian sin IA) son pasivos
 | Control de acceso | `.claude/settings.json` (allowlist de herramientas) |
 | Plantillas | Templater plugin de Obsidian |
 
----
+------
 
 ## Características principales
 
