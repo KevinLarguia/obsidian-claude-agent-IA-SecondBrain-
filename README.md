@@ -48,7 +48,7 @@ Los gestores de conocimiento tradicionales (Notion, Obsidian sin IA) son pasivos
 └─────────────────────────────────────────────────────────┘
 ```
 
----
+-----
 
 ## Stack tecnológico
 
